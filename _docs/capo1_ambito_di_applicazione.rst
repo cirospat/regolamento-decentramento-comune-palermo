@@ -26,7 +26,7 @@ conforma la propria azione amministrativa ai principi di uguaglianza, imparziali
 
 |
 
-Art. 2 Bis- Destinazione
+Art. 2 Bis - Destinazione
 ------------------------
 All'inizio di ciascun anno, la Giunta Comunale dovrà emanare un atto di indirizzo che stabilisca le linee guida dell'Amministrazione relativamente alla destinazione degli immobili confiscati alla criminalità organizzata, valutazione estesa anche agli immobili assegnati e/o restituiti al Comune dal beneficiario. 
 
