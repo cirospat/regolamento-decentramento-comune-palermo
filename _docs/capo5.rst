@@ -218,7 +218,15 @@ ART. 36  INVERSIONE DELL’ORDINE DEL GIORNO
 ART. 37 ORDINE NELLA TRATTAZIONE DELL’ARGOMENTO
 -------------------------------------------
 
-Nella trattazione dell’argomento o proposta all’ordine del giorno si procede con il seguente ordine:Discussione generale sulla proposta di delibera;Discussione particolare sui singoli articoli della proposta, ove presenti, su emendamentie sub-emendamenti;Votazione sugli emendamenti e sub-emendamenti e sugli articoli;Illustrazione e votazione degli ordini del giorno;Votazione sull’intera proposta.
+Nella trattazione dell’argomento o proposta all’ordine del giorno si procede con il seguente ordine:
+
+- Discussione generale sulla proposta di delibera;Discussione particolare sui singoli articoli della proposta, ove presenti, su emendamentie sub-emendamenti;
+
+- Votazione sugli emendamenti e sub-emendamenti e sugli articoli;
+
+- Illustrazione e votazione degli ordini del giorno;
+
+- Votazione sull’intera proposta.
 
 |
 
