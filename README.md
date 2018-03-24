@@ -1,7 +1,7 @@
 Regolamento dei beni confiscati del comune Palermo
 ==================================================
 
-Questo repository contiene la documentazione relativa al [Regolamento dei beni confiscati del comune di Palermo](http://regolamento-sui-beni-confiscati-comune-palermo.readthedocs.io). 
+Questo repository contiene la documentazione relativa al [Regolamento sul Decentramento del comune di Palermo](http://regolamento-decentramento-comune-palermo.readthedocs.io). 
 
 
 Link
