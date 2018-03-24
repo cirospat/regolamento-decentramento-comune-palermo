@@ -78,6 +78,7 @@ ART. 12 LE SEDUTE DELLA COMMISSIONE
 |
 
 ART. 13 PERMESSI PER LA PARTECIPAZIONE A SEDUTE DI COMMISSIONE CONSILIARE
+----------------------------------------------------------------------
 
 1. I componenti delle commissioni consiliari hanno diritto di assentarsi dal servizio per partecipare a ciascuna  seduta.  Il  diritto  di  assentarsicomprende  un  tempo  massimo  di  due  ore  prima  dello svolgimento della seduta e il tempo strettamente necessario per rientrare al posto di lavoro.
 
