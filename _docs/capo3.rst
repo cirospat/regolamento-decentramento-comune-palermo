@@ -17,15 +17,28 @@ ART. 6 COSTITUZIONE DEI GRUPPI CONSILIARI
 
 6. Nel caso di omessa comunicazione, è considerato capogruppo la/il Consigliera/epiù anziano per età eletto nella lista alla  quale il gruppo si riferisce.  Lostesso criterio si adotta nel caso di omessa comunicazione per il gruppo misto.
 
+|
+
 ART. 7 LA CONFERENZA DEI CAPIGRUPPO
 ----------------------------------
 
-1. La Conferenza dei Capigruppo è formata dal/dalla Presidentedel Consiglio comunale, dal/dallaVice  Presidentedel  Consiglio  comunale e  dai  Capigruppo  di  ciascun  gruppo  consiliare  o  loro delegati.
+1. La Conferenza dei Capigruppo è formata dal/dalla Presidentedel Consiglio comunale, dal/dalla Vice  Presidente del  Consiglio  comunale e  dai  Capigruppo  di  ciascun  gruppo  consiliare  o  loro delegati.
 
-2.  Essa  è  presieduta dal/dalla  Presidentedel  Consiglio  comunale  o,  in  caso  di  sua  assenza  o impedimento, da chi ne fa le veci.
+2.  Essa  è  presieduta dal/dalla  Presidente del  Consiglio  comunale  o,  in  caso  di  sua  assenza  o impedimento, da chi ne fa le veci.
 
 3. La Conferenza dei Capigruppo programma i lavori del Consiglio, predisponendone il calendario delle attività.
 
 4. Il/la Presidentedel Consiglio comunale è tenuto a convocare la Conferenza entro cinque giorni, qualora  ne  facciano  richiesta  il  Sindaco  o  almeno  3  Capigruppo  o  i  Capigruppo  che  rappresentino almeno un quarto dei consiglieri.
 
 5.  Il  Sindaco  ha  facoltà  di  partecipare  senza  diritto  di  voto  alle  riunioni  della  Conferenza  dei Capigruppo.
+
+|
+
+ART. 8 LOCALI PER I GRUPPI CONSILIARI
+-------------------------------------
+
+1. Per l’espletamento delle loro funzioni, i gruppi consiliari devono disporre diuno o più locali attigui del  Comune,  in  base  alle  disponibilità  esistenti,  in  modo  che  sia  a  essi  consentito  di  riunirsi  e  di ricevere il pubblico.
+
+2. I  locali  devono  essere  forniti  di  linea  telefonica,  internet,  attrezzature  e  strutture  idonee, anche nelrispetto e salvaguardia della sicurezza e della salute del personale addetto al Gruppo. Il personale addetto al gruppo deve essere in numero adeguato e comunque compreso tra un minimo di tre unità ed un massimo di sei. Per i gruppi fino a tre consiglieri vanno assegnate un massimo di tre unità lavorative; per i gruppi fino a cinque consiglieri un massimo di quattro unità lavorative; per i gruppi superiori a cinque consiglieri, un massimo di sei unità lavorative.
+
+3. Il personale del gruppo viene individuatofra i dipendenti comunali con formale comunicazione del capogruppo, sulla base di un rapporto fiduciario.
