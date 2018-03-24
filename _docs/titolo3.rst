@@ -54,11 +54,11 @@ Art. 10 Funzioni e poteri dei Consigli di Circoscrizione
 
 1. Funzioni  e  poteri  dei  Consigli  di  Circoscrizione  sono  definiti  dallo  Statuto  e  dal  presente Regolamento.  Particolare  rilevanza  è  attribuita  ai  rapporti  con  i  cittadini  singoli  ed  associati onde favorire la partecipazione più ampia alla formazione delle scelte.
 
-2. Il Consiglio di Circoscrizione nell’ambito dell’unità del Comune rappresenta  le  esigenze  di quanti vivono e lavorano nel territorio della circoscrizione.Il Consiglio inoltre:
+2. Il Consiglio di Circoscrizione nell’ambito dell’unità del Comune rappresenta  le  esigenze  di quanti vivono e lavorano nel territorio della circoscrizione. Il Consiglio inoltre:
 
-- esercita funzioni di indirizzo, programmazione e formazione;
-- compie gli atti necessari alla gestione di servizi, concorrendo al proseguimento degli interessi della collettività;
-- vigila e controlla l’uso del territorio delle circoscrizioni.
+   - esercita funzioni di indirizzo, programmazione e formazione;
+   - compie gli atti necessari alla gestione di servizi, concorrendo al proseguimento degli interessi della collettività;
+   - vigila e controlla l’uso del territorio delle circoscrizioni.
 
 |
 
@@ -76,11 +76,11 @@ Art. 12 Partecipazione alle scelte dell’Amministrazione comunale
 
 1. Su richiesta, i Consigli di Circoscrizione possono concorrere all’elaborazione dei piani e dei programmi di competenza del Comune e, in particolare:
 
-- all’elaborazione  della  relazione  previsionale  e  programmatica  e  degli  indirizzi  per  la formulazione  del  bilancio  di  previsione,  con  particolare  riferimento  ai  poteri  attribuiti  alle Circoscrizioni;
+   - all’elaborazione  della  relazione  previsionale  e  programmatica  e  degli  indirizzi  per  la formulazione  del  bilancio  di  previsione,  con  particolare  riferimento  ai  poteri  attribuiti  alle Circoscrizioni;
 
-- all’elaborazione  ed  alle  variazioni  dei  piani  territoriali  ed  urbanistici,  generali  e particolareggiati   nonché   dei   programmi   annuali   e   pluriennali   di   attuazione   e   di investimento che non siano già di competenza delle Circoscrizioni;-all’elaborazione ed alle modificazioni dei regolamenti che trattano materie diinteresse per le Circoscrizioni  nonché  alla  definizione  dei  criteri  generali  di  concessione  di  sovvenzioni, contributi, sussidi non obbligatori;
+   - all’elaborazione  ed  alle  variazioni  dei  piani  territoriali  ed  urbanistici,  generali  e particolareggiati   nonché   dei   programmi   annuali   e   pluriennali   di   attuazione   e   di investimento che non siano già di competenza delle Circoscrizioni;-all’elaborazione ed alle modificazioni dei regolamenti che trattano materie diinteresse per le Circoscrizioni  nonché  alla  definizione  dei  criteri  generali  di  concessione  di  sovvenzioni, contributi, sussidi non obbligatori;
 
-- all’elaborazione  ed  alle  variazioni  dei  programmi  annuali  e  pluriennali  relativi  alla realizzazione ed alla manutenzione di opere pubbliche che ricadono nell’ambito territoriale delle Circoscrizioni, da sottoporre all’approvazione del Consiglio Comunale.
+   - all’elaborazione  ed  alle  variazioni  dei  programmi  annuali  e  pluriennali  relativi  alla realizzazione ed alla manutenzione di opere pubbliche che ricadono nell’ambito territoriale delle Circoscrizioni, da sottoporre all’approvazione del Consiglio Comunale.
 
 2. L’attività di cui al comma precedente si esercita mediante la partecipazione del Presidente del Consiglio  di  Circoscrizione  o  del  Vice  Presidente,  o  di  un  suo  delegato,  ai  lavori  delle Commissioni   Consiliari   o   del   Consiglio   Comunale   ove siano   in   discussione   questioni riguardanti la Circoscrizione.
 
