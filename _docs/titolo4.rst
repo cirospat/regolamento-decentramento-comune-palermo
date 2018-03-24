@@ -26,13 +26,13 @@ a) Servizi sociali;
    
    - semiconvitto;
    
-   - trasporto    agevolato    delle    categorie    privilegiate    di    cittadini    che    risiedono    nelle circoscrizioni;
+   - trasporto  agevolato    delle    categorie    privilegiate    di    cittadini    che    risiedono    nelle circoscrizioni;
    
    - servizi in favore di soggetti diversamente abili.
    
 b) Servizi culturali e sportivi: 
 
-   -servizi decentrati di biblioteca, emeroteca, videoteca, cineteca, ludoteca; 
+   - servizi decentrati di biblioteca, emeroteca, videoteca, cineteca, ludoteca; 
    
    - iniziative per la diffusione della cultura con particolare riferimento alla valorizzazione della tradizione e del costume nell’ambito territoriale delle circoscrizioni; 
    
