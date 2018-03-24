@@ -7,7 +7,9 @@ ART. 56 RELAZIONE ANNUALE SULL’IMPEGNO DEL COMUNE CONTRO LE MAFIE
 
 1. Ogni  anno, nella prima sessione ordinaria del Consiglio comunale, il Sindaco, nell’ambito delle attività   istituzionali   che   nel  settore   della   lotta   alla   mafia   interessano   o   cointeressano l’Amministrazione, informa in apposita seduta il Consiglio sulle iniziative e sui provvedimenti che la stessa ha adottato o intende adottare per coinvolgere, anche con manifestazioni e convegni, i cittadini nella lotta contro le mafie e per garantire la corretta e trasparente adesione dell’azione amministrativa alle precedenti finalità, nonché sulle esigenze nuove e sui problemi insorti, anche con riferimento al fenomeno della delinquenza comune e alle misure adottate per lo sviluppo.
 
-2.  Alla  seduta  sono  invitate  le  Autorità  e  i  componenti  di  organismi  come  le  Commissioni parlamentari antimafia nazionale e regionale, preposti alla prevenzione e repressione del fenomeno mafioso e alla vigilanza sull’azione dei poteri dello Stato e delle Autonomie locali.3.  Dopo  la  relazione  del  Sindaco,  si  apre  la  discussione  alla  quale  possono  partecipare  tutti  i Consiglieri.
+2.  Alla  seduta  sono  invitate  le  Autorità  e  i  componenti  di  organismi  come  le  Commissioni parlamentari antimafia nazionale e regionale, preposti alla prevenzione e repressione del fenomeno mafioso e alla vigilanza sull’azione dei poteri dello Stato e delle Autonomie locali.
+
+3.  Dopo  la  relazione  del  Sindaco,  si  apre  la  discussione  alla  quale  possono  partecipare  tutti  i Consiglieri.
 
 |
 
@@ -20,7 +22,9 @@ ART. 57 RELAZIONE ANNUALE SULL’ATTUAZIONE DELLE DELIBERAZIONI CONSILIARI E SUI
 
 3. La relazione, inoltre, deve comprendere un’analisi della situazione occupazionale, deve fornire indicazioni sia sul problema della casa nella città e sull’assegnazione degli alloggi da parte del Comune nell’anno precedente, siasull’attuazione dei programmi di edilizia scolastica.
 
-4.  Il  Sindaco  può  delegare  i  singoli  Assessori,  con  riferimento  ai  problemi  di  competenza  del  loro Assessorato.5.  Dopo  la  relazione  del  Sindaco,  si  apre  la  discussione  alla  quale  possono  partecipare  tutti  i Consiglieri.
+4.  Il  Sindaco  può  delegare  i  singoli  Assessori,  con  riferimento  ai  problemi  di  competenza  del  loro Assessorato.
+
+5.  Dopo  la  relazione  del  Sindaco,  si  apre  la  discussione  alla  quale  possono  partecipare  tutti  i Consiglieri.
 
 |
 
