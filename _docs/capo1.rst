@@ -11,7 +11,7 @@ ART. 1 PRIMA CONVOCAZIONE DEL CONSIGLIO COMUNALE
 
 3. Qualora il/la  Presidente uscente non provveda entro i termini indicati nei commi precedenti, la convocazione è disposta dalla/dal Consigliera/e uscente più anziano per voti fra gli eletti.
 
-4. Oggetto della prima convocazione è l’elezione del/della  Presidente del  Consiglio  comunale  e della/delVice Presidente del Consiglio comunale
+4. Oggetto della prima convocazione è l’elezione del/della  Presidente del  Consiglio  comunale  e della/del Vice Presidente del Consiglio comunale
 
 |
 
