@@ -107,8 +107,6 @@ ART. 63 NORME DI RINVIO E FINALI
 IL PALAZZO PRETORIO
 --------------------
 
-.. figure:: img/palazzopretorio.PNG
-
 L’origine del **Palazzo di Città** o *palazzo Pretorio*, noto anche come *Palazzo delle Aquile*, è rimasta incerta fino alla seconda metà dell’ottocento. Una leggenda racconta che a posare la prima pietra dell’edificio fosse stato Federico II d’Aragona attorno al 1300. A dare una definitiva smentita alla falsa data di fondazione furono nel 1875 Giuseppe Meli e Fedele Pollaci Nuccio che trovarono il documento di fondazione ‘ex novo’del palazzo, risalente al 1463.
 
 Nel documento, Pietro Speciale, il pretore che governava la città a quel tempo, stabilisce la necessità di costruire un palazzo per la sede comunale degno della città di Palermo, appellata per storia e ruolo politico ‘Chitati principali di lu regno’. 
@@ -116,7 +114,7 @@ I lavori di edificazione del palazzo iniziarono nel 1470 e si conclusero nel 147
 
 L’opera venne finanziata direttamente dalla cittadinanza e a questo proposito vennero imposte nuove tasse sulle carni e sul vino, quindi fu una libera scelta della comunità e non l’imposizione di un sovrano straniero.
 
-Dalla fondazione quattrocentesca di Palazzo Pretorio ci sono stati numerosi interventi di ampliamento nel corso del 500’, del 600’, dopo il terribile terremoto del 1823 e dopo l’unità d’Italia.Intorno al 1553 il palazzo fu ampliato e fu rifatta la facciata su piazza Pretoria. In questo periodo a Palermo ci furono molti cambiamenti nella gestione politica della città, venne meno l’elezione diretta dei magistrati cittadini chiamati giurati e venne invece istituita la carica ereditaria di senatore che proveniva sempre dalla classe nobiliare palermitana. 
+Dalla fondazione quattrocentesca di Palazzo Pretorio ci sono stati numerosi interventi di ampliamento nel corso del 500’, del 600’, dopo il terribile terremoto del 1823 e dopo l’unità d’Italia. Intorno al 1553 il palazzo fu ampliato e fu rifatta la facciata su piazza Pretoria. In questo periodo a Palermo ci furono molti cambiamenti nella gestione politica della città, venne meno l’elezione diretta dei magistrati cittadini chiamati giurati e venne invece istituita la carica ereditaria di senatore che proveniva sempre dalla classe nobiliare palermitana. 
 
 Sempre nel 500’ si sviluppò la tendenza a mistificare l’origine di Palermo con la leggendaria alleanza fra la città e Roma. Palermo era stata appellata ‘urbs’ e si era fregiata dello stemma con l’aquila grazie al sostegno dato nella battaglia contro il cartaginese Asdrubale. ‘Tacta fide, socium fecit sibi Roma Panormum: hinc aquila, et praetore, et decus urbis adest’, recitava la scritta collocata nel portone d’ingresso su un gruppo marmoreo con un uomo e una donna vestiti alla romana, che si riteneva donato da Roma in atto di riconoscenza agli alleati palermitani.In realtà,il distico latino è un falso storico ad opera del poeta corleonese Giovanni Naso, cancelliere del senato nel 1477. Oltre all’origine romana dello stemma con l’aquila altri studiosi nel tempo ne hanno ipotizzato una derivazione Fenicia e Sveva.
 
