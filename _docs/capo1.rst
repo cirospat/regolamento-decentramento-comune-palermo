@@ -9,18 +9,18 @@ ART. 1 PRIMA CONVOCAZIONE DEL CONSIGLIO COMUNALE
 
 2. La convocazione è disposta dal/dalla Presidentedel Consiglio comunale uscente, con invito da notificarsi almeno dieci giorni prima di quello stabilito per l’adunanza.
 
-3. Qualora il/la  Presidenteuscente non provveda entro i termini indicati nei commi precedenti, la convocazione è disposta dalla/dal Consigliera/euscente più anzianoper voti fra gli eletti.
+3. Qualora il/la  Presidente uscente non provveda entro i termini indicati nei commi precedenti, la convocazione è disposta dalla/dal Consigliera/e uscente più anziano per voti fra gli eletti.
 
-4. Oggetto della prima convocazione è l’elezione del/della  Presidentedel  Consiglio  comunale  e della/delVice Presidentedel Consiglio comunale
+4. Oggetto della prima convocazione è l’elezione del/della  Presidente del  Consiglio  comunale  e della/delVice Presidente del Consiglio comunale
 
 |
 
 ART. 2 GIURAMENTO E CONVALIDA DEI CONSIGLIERI ELETTI
 ----------------------------------------------------
 
-1. Fino  all’elezione del/della Presidente,  la  presidenza  del  Consiglio  comunale  spetta al/alla Consigliere/apiù anziano per voti fra gli eletti presenti in aula.
+1. Fino  all’elezione del/della Presidente,  la  presidenza  del  Consiglio  comunale  spetta al/alla Consigliere/a più anziano per voti fra gli eletti presenti in aula.
 
-2. La/ Il Consigliera/epiù anziano, appena assunta la presidenza provvisoria del Consiglio comunale, presta  giuramento  con la  seguente  formula: “Giuro di adempiere alle mie funzioni con scrupolo e coscienza nell’interesse del Comune e in armonia con gli interessi della Repubblica e della Regione”; quindi, invita le/gli altre/i Consigliere/ia prestare giuramento con la stessa formula.
+2. La/ Il Consigliera/e più anziano, appena assunta la presidenza provvisoria del Consiglio comunale, presta  giuramento  con la  seguente  formula: *“Giuro di adempiere alle mie funzioni con scrupolo e coscienza nell’interesse del Comune e in armonia con gli interessi della Repubblica e della Regione”*; quindi, invita le/gli altre/i Consigliere/i a prestare giuramento con la stessa formula.
 
 3. Con la prestazione del giuramento, i Consiglieri comunali entrano nel pieno esercizio delle loro funzioni e acquisiscono i diritti e le prerogative della carica.
 
