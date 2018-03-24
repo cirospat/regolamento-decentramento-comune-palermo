@@ -1,5 +1,5 @@
 ####################
-Regolamento sul Decentramento del Comunale di Palermo.
+Regolamento sul Decentramento del comune di Palermo.
 ####################
 
 .. figure:: img/palermo.PNG
