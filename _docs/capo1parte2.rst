@@ -107,7 +107,8 @@ ART. 63 NORME DI RINVIO E FINALI
 IL PALAZZO PRETORIO
 --------------------
 
-.. figure:: _img/palazzopretorio.PNG
+.. figure:: img/palazzopretorio.PNG
+
 
 L’origine del **Palazzo di Città** o *palazzo Pretorio*, noto anche come *Palazzo delle Aquile*, è rimasta incerta fino alla seconda metà dell’ottocento. Una leggenda racconta che a posare la prima pietra dell’edificio fosse stato Federico II d’Aragona attorno al 1300. A dare una definitiva smentita alla falsa data di fondazione furono nel 1875 Giuseppe Meli e Fedele Pollaci Nuccio che trovarono il documento di fondazione ‘ex novo’del palazzo, risalente al 1463.
 
