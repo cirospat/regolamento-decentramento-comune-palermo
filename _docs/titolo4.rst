@@ -10,35 +10,66 @@ Art. 29 Servizi di base
 1. Le Circoscrizioni e le dipendenti postazioni decentrate hanno competenza in ordine alla gestione dei servizi base di seguito indicati, individuati in relazione a peculiarità tecniche e a ragioni di efficacia sociale; 
 
 a) Servizi sociali; 
-   - servizi domiciliari; servizi residenziali, ad esclusione del convenzionamento con le strutture residenziali; servizi   di   integrazione   economica   (assistenza   economica   ordinaria,   straordinaria   e temporanea;   assistenza   economica   a   invalidi   sul   lavoro,   invalidi   di   guerra,   minori riconosciuti  dalla  sola  madre,  famiglie  di  detenuti  ed  ex  detenuti,  famiglie  affidatarie; contributo  alloggiativo;  
-   - assegno  nucleo  familiare  con  almeno  tre  figli;    
+   - servizi domiciliari; servizi residenziali, ad esclusione del convenzionamento con le strutture residenziali; servizi   di   integrazione   economica   (assistenza   economica   ordinaria,   straordinaria   e temporanea;   assistenza   economica   a   invalidi   sul   lavoro,   invalidi   di   guerra,   minori riconosciuti  dalla  sola  madre,  famiglie  di  detenuti  ed  ex  detenuti,  famiglie  affidatarie; contributo  alloggiativo;
+   
+   - assegno  nucleo  familiare  con  almeno  tre  figli; 
+   
    - assegno  maternità; istruttoria delle istanze per l’ammissione al regime di compensazione per la fornitura di energia elettrica, ecc.); 
+   
    - servizi per il reinserimento sociale di persone socialmente svantaggiate; 
+   
    - servizio sociale professionaleterritoriale; 
+   
    - segretariato sociale; 
+   
    - centri sociali e diurni;
+   
    - semiconvitto;
+   
    - trasporto    agevolato    delle    categorie    privilegiate    di    cittadini    che    risiedono    nelle circoscrizioni;
+   
    - servizi in favore di soggetti diversamente abili.
    
 b) Servizi culturali e sportivi: 
+
    -servizi decentrati di biblioteca, emeroteca, videoteca, cineteca, ludoteca; 
+   
    - iniziative per la diffusione della cultura con particolare riferimento alla valorizzazione della tradizione e del costume nell’ambito territoriale delle circoscrizioni; 
+   
    - corsi di avviamento allo sport (CAM) per i residenti nelle Circoscrizioni;corsi di educazione motoria (CEM) per i residenti nelle Circoscrizioni.  
    
-c) Servizi scolastici ed educativi:assistenza   igienico   personale   ai   diversamente   abili   gravi   che   frequentano   la   scuola dell’obbligo e funzioni integrate di refezione scolastica;lavori di piccola manutenzione ordinaria nelle scuole materne comunali, negli asili nido di competenza comunale, in tutte le scuole statali dell’obbligo;
+c) Servizi scolastici ed educativi:
+
+   - assistenza igienico   personale   ai   diversamente   abili   gravi   che   frequentano   la   scuola dell’obbligo e funzioni integrate di refezione scolastica;
+   
+   - lavori di piccola manutenzione ordinaria nelle scuole materne comunali, negli asili nido di competenza comunale, in tutte le scuole statali dell’obbligo;
 
 d) Servizi demografici:
+
    - rilascio Carte d’Identità; 
-   - rinnovo Carte D’Identità;autenticazioni delle sottoscrizioni;
+   
+   - rinnovo Carte D’Identità;
+   
+   - autenticazioni delle sottoscrizioni;
+   
    - autentiche di firme e rilascio Carte d’identità a domicilio (servizio domiciliare);
+   
    - rilascio certificazioni anagrafiche;
+   
    - passaggi  di  proprietà  beni  mobili  registrati,  (autenticazione  degli  atti  di  alienazione  e costituzione di diritti di garanzia di beni mobili registrati); 
+   
    - formazione atti di nascita;
+   
    - formazione atto di matrimonio;
-   - formazione atto di morte;annotazione a margine  dell’atto di stato civile  di provvedimentidi  tutela  e  interdizione (relativi ai registri in uso);
+   
+   - formazione atto di morte;
+   
+   - annotazione a margine  dell’atto di stato civile  di provvedimentidi  tutela  e  interdizione (relativi ai registri in uso);
+   
    - richiesta cambio di abitazione per intero nucleo, per scissione del nucleo, per aggregazione ad altro nucleo familiare dei residenti nel territorio comunale;
+   
    - rilascio certificati di stato civile plurilingue (relativi all’anno in corso).
+
 
 1. Le Circoscrizioni e le postazioni decentrate dipendenti territorialmente gestiscono tutte le fasi o parte  delle  stesse  dei  procedimenti  amministrativi  relativi  ai  servizi  di  base  di  cui  al  c.  1,  di concerto   con   i   settori   competenti   per   materia   e   in   relazione   alle   risorse   finanziarie specificamente  attribuite  per  l’erogazione  dei  predetti  servizi,assicurando,   nelle   fasi   di programmazione  e  di  attuazione,  il  coinvolgimento  di  comitati  ed  utenti,  operatori,  cittadini  e associazioni. 
 
