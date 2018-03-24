@@ -8,6 +8,8 @@ Fonte: `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/
 
 .. figure:: img/palazzopretorio.PNG
 
+   Il Palazzo Pretorio di Palermo all'interno del quale si riunisce il Consiglio Comunale
+
 .. figure:: img/ccbysa.png
 
 Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo, versione 4.0 Internazionale.
