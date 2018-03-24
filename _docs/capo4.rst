@@ -6,6 +6,7 @@ ART. 9 LE COMMISSIONI CONSILIARI PERMANENTI
 ------------------------------------------
 
 Dopo  la  formazione  dei  gruppi  consiliari,  in  seno  al  Consiglio  sono istituite  sette  Commissioni consiliari permanenti.Le commissioni sono composte da cinque componenti eccezione fatta dalla seconda  (Urbanistica)  e  la  prima  (Bilancio)  che  sono  composte  da  sette  consiglieri  e  aventi  le seguenti materie:
+
    - I Commissione: Bilancio, Finanza e Tributi –Patrimonio. 
    - II  Commissione:  Urbanistica –Lavori  Pubblici -Edilizia  Privata  e  residenziale  pubblica –Edilizia scolastica ed edilizia pericolante –Città Storica –Traffico. 
    - III Commissione: Società Partecipate –Servizi a rete –Cantiere Municipale –Ville e Giardini.
