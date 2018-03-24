@@ -26,7 +26,7 @@ ART. 19 RIUNIONI DEL CONSIGLIO COMUNALE IN SESSIONE STRAORDINARIA
 
 |
 
-ART. 20 DELIBERAZIONI DELLA GIUNTA COMUNALECOI POTERI DEL CONSIGLIO
+ART. 20 DELIBERAZIONI DELLA GIUNTA COMUNALE COI POTERI DEL CONSIGLIO
 --------------------------------------------------------------------
 
 1. Le deliberazioni adottate, nei casi di necessità e urgenza, dallaGiunta comunale con i poteri del Consiglio comunale decadono se entro trenta giorni dalla data della loro adozione il Consiglio non è convocato per deliberarne la ratifica.
@@ -151,7 +151,7 @@ ART. 30 DECADENZA DEI CONSIGLIERI COMUNALI PER MANCATA PARTECIPAZIONE ALLE SEDUT
 
 2. Il/la  Presidente,  all’inizio  della  seduta  in  cui  si  verifica  l’assenza,  ne  informa  il  Consiglio comunale.
 
-3. Nel caso in cui il/la Consigliere/a, senza giustificato motivo, non interviene ad almeno sei sedute consecutive  del  Consiglio  comunale,  il  Consiglio  stesso delibera l’inizio della procedura per la dichiarazione di decadenza prevista dall’art. 173 dell’Ordinamento Regionale degli Enti Locali. Il/laPresidente comunica all’interessato la deliberazione del Consiglio, nonché la seduta nella quale sarà sentito; all’interessato deve essere dato un preavviso di almeno dieci giorni. La decadenza è dichiarata dal Consiglio, sentito l’interessato.
+3. Nel caso in cui il/la Consigliere/a, senza giustificato motivo, non interviene ad almeno sei sedute consecutive  del  Consiglio  comunale,  il  Consiglio  stesso delibera l’inizio della procedura per la dichiarazione di decadenza prevista dall’art. 173 dell’Ordinamento Regionale degli Enti Locali. Il/la Presidente comunica all’interessato la deliberazione del Consiglio, nonché la seduta nella quale sarà sentito; all’interessato deve essere dato un preavviso di almeno dieci giorni. La decadenza è dichiarata dal Consiglio, sentito l’interessato.
 
 |
 
@@ -183,6 +183,8 @@ ART. 33 REDAZIONE E APPROVAZIONE DEL PROCESSO VERBALE
 4.  La  proposta  deliberativa  di  approvazione  del  processo  verbale  è  depositata,  in  originale,  presso l’Ufficio autonomo del Consiglio comunale, affinché ogni Consigliere possa prenderne visione prima della seduta successiva. Nella sessione successiva a quella alla quale il processo verbale si riferisce e prima di passare all’esame delle questioni poste all’ordine del giorno, il/la Presidente, assistito da tre  scrutatori,  scelti  dal  Consiglio  tra  i  suoi  componenti,  pone  in  votazione  l’approvazione  del processo verbale.
 
 5. Ogni Consigliere può richiedere la parola per non più di cinque minuti, per fare inserire rettifiche nel  processo  verbale o  per  chiarire  il  contenuto  delle  proprie  dichiarazioni,  riportate  nel  processo verbale stesso o per fatto personale.6. La votazione del processo verbale è effettuata per alzata di mano e richiede il voto favorevole della maggioranza dei/delle Consiglieri/epresenti.
+
+|
 
 ART. 34 COMUNICAZIONI DEL PRESIDENTE
 ----------------------------------
@@ -233,7 +235,7 @@ Nella trattazione dell’argomento o proposta all’ordine del giorno si procede
 ART. 38 DISCUSSIONE GENERALE
 -------------------------
 
-1. La discussione generale sull’argomento o sulla proposta all’ordine del giorno inizia con la relazione di  uno  dei  Consiglieri  firmatari  della  proposta  o  del  Sindaco  o  dell’Assessore  proponente.  La Relazione non può superare la durata di trenta minuti.
+1. La discussione generale sull’argomento o sulla proposta all’ordine del giorno inizia con la relazione di  uno  dei  Consiglieri  firmatari  della  proposta  o  del  Sindaco o  dell’Assessore  proponente.  La Relazione non può superare la durata di trenta minuti.
 
 2. Dopo la relazione e l’eventuale lettura del dispositivo della proposta di deliberazione richiesta da almeno  due  Consiglieri,  è  data  la  parola,  per  non  più  di  venti  minuti,  al  relatore  o  ai  relatori  della Commissione consiliare che hanno esaminato l’argomento o la proposta, al fine di comunicare il parere della Commissione e quello della minoranza, se da questa richiesto.
 
@@ -241,7 +243,7 @@ ART. 38 DISCUSSIONE GENERALE
 
 |
 
-ART. 39 INTERVENTO DEI CONSIGLIERINELLA DISCUSSIONE GENERALE
+ART. 39 INTERVENTO DEI CONSIGLIERI NELLA DISCUSSIONE GENERALE
 -----------------------------------------------------
 
 1. I/le  Consiglieri/epossono  intervenire  nella  discussione  generale  dopo  che  hanno  ottenuto dal/dallaPresidente la facoltà di parlare.
@@ -254,7 +256,7 @@ ART. 39 INTERVENTO DEI CONSIGLIERINELLA DISCUSSIONE GENERALE
 
 5. Nessuno può interrompere il/la Consigliere/amentre parla, fatta eccezione per il/la Presidente, il quale può intervenire per dare spiegazioni o chiarimenti.
 
-6. E’ consentito lo scambio di turno tra i/le Consiglieri/eiscritti a parlare.
+6. E’ consentito lo scambio di turno tra i/le Consiglieri/e iscritti a parlare.
 
 7. Ciascun Consigliere può intervenire nella discussione generale una seconda volta per non più di trenta minuti. E’ nella facoltà del/della Consigliere/arinunciare al secondo intervento e prolungare il primo intervento utilizzando il tempo che avrebbe a disposizione per il secondo.
 
@@ -271,7 +273,7 @@ ART. 40 PRESENTAZIONE, DISCUSSIONE E VOTAZIONI SU EMENDAMENTI E SUB-EMENDAMENTI
 
 2. I sub-emendamenti sono proposte di modifiche agli emendamenti.
 
-3.  Gli  emendamenti  devono  essere  presentati dai/dalle  Consiglieri/eprima  che  si  chiuda  la discussione generale.
+3. Gli  emendamenti  devono  essere  presentati dai/dalle  Consiglieri/eprima  che  si  chiuda  la discussione generale.
 
 4. I subemendamenti possono essere presentati prima che si chiuda la discussione sugli emendamenti. Il/la  Presidenteinforma l’Assemblea sul numero di emendamenti e subemendamenti, redatti per iscritto e firmati dai proponenti, che sono stati presentati alla presidenza.
 
@@ -281,7 +283,7 @@ ART. 40 PRESENTAZIONE, DISCUSSIONE E VOTAZIONI SU EMENDAMENTI E SUB-EMENDAMENTI
 
 7. Uguale tempo è concessoall’intervento eventuale dell’assessore competente. Ogni Consigliere può prendere la parola per dichiarazione di voto per non più di dieci minuti.
 
-8.  Chiusa  la  discussione, il/la  Presidentemette  in  votazione  prima  i  sub-emendamenti  e  poi  gli emendamenti ai quali i sub-emendamenti si riferiscono.
+8. Chiusa  la  discussione, il/la  Presidentemette  in  votazione  prima  i  sub-emendamenti  e  poi  gli emendamenti ai quali i sub-emendamenti si riferiscono.
 
 9. Se i subemendamenti e gli emendamenti sono approvati, il testo del documento s’intende posto in votazione con le modifiche, le aggiunte e le soppressioni dovute all’approvazione degli emendamenti e  dei  sub-emendamenti.  I  sub-emendamenti,  anche  se  approvati,  decadono  se  gli  emendamenti  ai quali si riferiscono sono respinti.
 
@@ -302,7 +304,7 @@ ART. 41 ILLUSTRAZIONE E VOTAZIONE DEGLI ORDINI DEL GIORNO
 
 4. Non si procede alla votazione dell’ordine del giorno se il proponente dichiara di rinunciarvi. L’ordine del giorno ritirato non può essere sottoscritto eripresentato da nessun altro Consigliere.
 
-5. L’ordine del giorno non è emendabile, ma può essere sostituito dai presentatori con altro ordine del giorno.6.  L’ordine  del  giorno  può  essere  sottoscritto  da altri/altre  Consiglieri/eprevio  consenso  del proponente.
+5. L’ordine del giorno non è emendabile, ma può essere sostituito dai presentatori con altro ordine del giorno.6.  L’ordine  del  giorno  può  essere  sottoscritto  da altri/altre  Consiglieri/e previo  consenso  del proponente.
 
 |
 
@@ -311,18 +313,18 @@ ART. 42 RICHIAMO AL REGOLAMENTO PER MOZIONE D’ORDINE O PER FATTO PERSONALE
 
 1. Durante la discussione, è sempre concessa la parola ai/alle Consiglieri/eper richiamo alla legge, per richiamo al regolamento, per mozione d’ordine o per fatto personale.
 
-2. Sul richiamo alla legge, il/la Consigliere/aè tenuto a citare puntualmente il riferimento normativo oggetto della presunta violazione.
+2. Sul richiamo alla legge, il/la Consigliere/a è tenuto a citare puntualmente il riferimento normativo oggetto della presunta violazione.
 
 3.  Sul  richiamo  al  regolamento  o  all’ordine  del  giorno  decide il/la  Presidente,  ma  se il/laConsigliere/ache  ha  effettuato  il  richiamo  insiste,  la  questione  è  posta  in  votazione.  Prima  della votazione possono intervenire, per dieci minuti, un Consigliere a  favore e  uno contro.  Il Consiglio decide con votazione palese.
 
-4. E’ fatto personale l’essere intaccato nellapropria  condotta  od  onorabilità  o  il  sentirsi  attribuire opinioni diverse da quelle espresse. Chi chiede la parola per fatto personale deve indicare in che cosa tale fatto consiste. Il/la Presidentedecide in merito, ma se l’interessato insiste, decide ilConsiglio senza discussione, con voto palese.
+4. E’ fatto personale l’essere intaccato nellapropria  condotta  od  onorabilità  o  il  sentirsi  attribuire opinioni diverse da quelle espresse. Chi chiede la parola per fatto personale deve indicare in che cosa tale fatto consiste. Il/la Presidentedecide in merito, ma se l’interessato insiste, decide il Consiglio senza discussione, con voto palese.
 
 |
 
 ART. 43 QUESTIONE PREGIUDIZIALE E PROPOSTA DI SOSPENSIVA
 ----------------------------------------------------
 
-1. E’ questione pregiudiziale la questione posta da uno o più Consiglieri, la quale, per motivi di fatto o di diritto, escluda che si possa deliberaresull’argomento in trattazione.
+1. E’ questione pregiudiziale la questione posta da uno o più Consiglieri, la quale, per motivi di fatto o di diritto, escluda che si possa deliberare sull’argomento in trattazione.
 
 2. E’ proposta di sospensiva la proposta di uno o più Consiglieri di sospendere o di rinviare ad altra seduta l’esame dell’argomento in trattazione.
 
@@ -335,9 +337,9 @@ ART. 43 QUESTIONE PREGIUDIZIALE E PROPOSTA DI SOSPENSIVA
 ART. 44 RITIRO, RINUNCE O DECADENZA DEGLI EMENDAMENTI O SUB-EMENDAMENTI
 --------------------------------------------
 
-1. Nel caso in cui il proponente ritiri l’emendamento o il sub-emendamento o rinunci alla votazione, si procede ugualmente alla votazione se altro/altraConsigliere/afa proprio, subito dopo l’annuncio da parte del/della Presidentedel ritiro o della rinuncia, l’emendamento o il sub-emendamento.
+1. Nel caso in cui il proponente ritiri l’emendamento o il sub-emendamento o rinunci alla votazione, si procede ugualmente alla votazione se altro/altra Consigliere/a fa proprio, subito dopo l’annuncio da parte del/della Presidentedel ritiro o della rinuncia, l’emendamento o il sub-emendamento.
 
-2. Se il/la Consigliere/ache ha proposto l’emendamento o il sub-emendamento è assente dall’aula al momento  della votazione, l’emendamento o il sub-emendamento  è  dichiarato  decaduto,  salvo  che altro/altra Consigliere/alo faccia proprio.
+2. Se il/la Consigliere/a che ha proposto l’emendamento o il sub-emendamento è assente dall’aula al momento  della votazione, l’emendamento o il sub-emendamento  è  dichiarato  decaduto,  salvo  che altro/altra Consigliere/a lo faccia proprio.
 
 |
 
@@ -346,7 +348,7 @@ ART. 45 VOTAZIONE FINALE - DICHIARAZIONE DI VOTO
 
 1. Dopo l’eventuale votazione degli ordini del giorno, il/la Presidente, su richiesta degli uffici, può proporre le necessarie rettifiche agli emendamenti già approvati inconciliabili tra loro o con lo scopo della deliberazione o con alcune delle sue disposizioni. Dopo tale adempimento, il/la Presidentepone in votazione il testo del documento con le modifiche dovute agli emendamenti e ai sub-emendamenti approvati e alle eventuali rettifiche.
 
-2. Prima della votazione, i/le Consiglieri/ehanno diritto di parola per non più di dieci minuti, per motivare il loro voto o per dichiarare lapropria astensione.
+2. Prima della votazione, i/le Consiglieri/e hanno diritto di parola per non più di dieci minuti, per motivare il loro voto o per dichiarare lapropria astensione.
 
 3.  Nel  caso  in  cui il/la  Consigliere/asi  astiene  dalla  votazione,  perché  portatore  di  un  interesse personale rispetto all’oggetto della deliberazione, deve allontanarsi dall’aula e chiedere che del suo allontanamento sia dato atto nelprocesso verbale.
 
@@ -378,6 +380,6 @@ ART. 46 SISTEMI DI VOTAZIONE
 ART.47 RISULTATO DELLA VOTAZIONE
 ---------------------------------
 
-1.  Le  deliberazioni  sono  approvate  se  ottengono  il  voto  favorevole  dalla  maggioranza  assoluta dei/delle Consiglieri/epresenti, salvo che la legge prescriva una maggioranza qualificata.
+1.  Le  deliberazioni  sono  approvate  se  ottengono  il  voto  favorevole  dalla  maggioranza  assoluta dei/delle Consiglieri/e presenti, salvo che la legge prescriva una maggioranza qualificata.
 
-2.  Il  risultato  della  votazione  è  proclamato dal/dalla  Presidentecon  la  formula  “Il  Consiglio approva” o “Il Consiglio non approva”. Nel caso di parità di voti, la proposta si intende non approvata.
+2.  Il  risultato  della  votazione  è  proclamato dal/dalla  Presidente con  la  formula  “Il  Consiglio approva” o “Il Consiglio non approva”. Nel caso di parità di voti, la proposta si intende non approvata.
