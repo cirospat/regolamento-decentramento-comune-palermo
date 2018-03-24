@@ -6,6 +6,7 @@ Regolamento del Consiglio Comunale di Palermo.
 
 Fonte: `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_25072017103823.pdf>`_, Approvato con deliberazione di Consiglio Comunale n. 363 del 08/06/2017. Entrato in vigore il 04/07/2017.
 
+.. figure:: img/palazzopretorio.PNG
 
 .. figure:: img/ccbysa.png
 
