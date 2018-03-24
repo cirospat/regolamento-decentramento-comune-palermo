@@ -5,7 +5,7 @@ Capo 6 - INTERROGAZIONI –INTERPELLANZE - MOZIONI
 ART. 48 PRESENTAZIONE DI INTERROGAZIONI,INTERPELLANZE E MOZIONI
 ----------------------------------------------------
 
-1. I/le Consiglieri/e,nell’esercizio delle loro funzioni di controllo, possono presentare interrogazioni, interpellanze  o  mozioni  su  argomenti  che  interessano  comunque  le  competenze  e  le  funzioni dell’Amministrazione comunale o l’attività del Comune.
+1. I/le Consiglieri/e, nell’esercizio delle loro funzioni di controllo, possono presentare interrogazioni, interpellanze  o  mozioni  su  argomenti  che  interessano  comunque  le  competenze  e  le  funzioni dell’Amministrazione comunale o l’attività del Comune.
 
 2.  Possono,  altresì,  rivolgere  alla  Presidenza  raccomandazioni  scritte  o  verbali,  anche  in  pubblica seduta, per sollecitare provvedimenti, adempimenti o iniziative relative a pratiche in corso.
 
