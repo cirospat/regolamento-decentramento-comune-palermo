@@ -1,14 +1,10 @@
 ####################
-Regolamento del Consiglio Comunale di Palermo.
+Regolamento sul Decentramento del Comunale di Palermo.
 ####################
 
 .. figure:: img/palermo.PNG
 
-Fonte: `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_25072017103823.pdf>`_, Approvato con deliberazione di Consiglio Comunale n. 363 del 08/06/2017. Entrato in vigore il 04/07/2017.
-
-.. figure:: img/palazzopretorio.PNG
-
-   Il Palazzo Pretorio di Palermo all'interno del quale si riunisce il Consiglio Comunale
+Fonte: `Regolamento comunale <https://www.comune.palermo.it/js/server/normative/_24122012094326.pdf>`_, Approvato  con  deliberazione  del  Consiglio  Comunale  n.  300  del  06/12/95,  n.34  del  24/01/96  en. 230 del 30/12/96. Reso esecutivo dal CO.RE.CO Centrale nella seduta del 28/11/96 ai nn. 15187/14502. Aggiornato  con  le  modifiche  apportate  con  la  deliberazione  del  Consiglio  Comunale  n. 309  del 12/05/2010.
 
 .. figure:: img/ccbysa.png
 
@@ -18,9 +14,6 @@ Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.or
 
 Testo del Regolamento 
 =======================
-
-Parte 1 - NORME PER IL FUNZIONAMENTO DEL CONSIGLIO COMUNALE
-:::::::::::::::::::::::::::::::::::
 
 .. toctree::
 
@@ -32,11 +25,6 @@ Parte 1 - NORME PER IL FUNZIONAMENTO DEL CONSIGLIO COMUNALE
    _docs/capo6.rst
    _docs/capo7.rst
 
-Parte 2 - NORME PER GARANTIRE LA CORRETTEZZA, LA TRASPARENZA, LA FUNZIONALITA’ DELL’ AZIONE AMMINISTRATIVA, IL CONTROLLO SUGLI ENTI DIPENDENTI E L’INFORMAZIONE E LA PARTECIPAZIONE DEI CITTADINI
-:::::::::::::::::::::::::::::::::::
 
-.. toctree::
-
-   _docs/capo1parte2.rst
  
    
