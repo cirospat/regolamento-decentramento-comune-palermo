@@ -41,4 +41,4 @@ ART. 8 LOCALI PER I GRUPPI CONSILIARI
 
 2. I  locali  devono  essere  forniti  di  linea  telefonica,  internet,  attrezzature  e  strutture  idonee, anche nelrispetto e salvaguardia della sicurezza e della salute del personale addetto al Gruppo. Il personale addetto al gruppo deve essere in numero adeguato e comunque compreso tra un minimo di tre unità ed un massimo di sei. Per i gruppi fino a tre consiglieri vanno assegnate un massimo di tre unità lavorative; per i gruppi fino a cinque consiglieri un massimo di quattro unità lavorative; per i gruppi superiori a cinque consiglieri, un massimo di sei unità lavorative.
 
-3. Il personale del gruppo viene individuatofra i dipendenti comunali con formale comunicazione del capogruppo, sulla base di un rapporto fiduciario.
+3. Il personale del gruppo viene individuato fra i dipendenti comunali con formale comunicazione del capogruppo, sulla base di un rapporto fiduciario.
