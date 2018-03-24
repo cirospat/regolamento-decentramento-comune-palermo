@@ -59,7 +59,7 @@ ART. 60 INFORMAZIONE SULLA GESTIONE DELL’AZIENDA SANITARIA PROVINCIALE
 
 3. La relazione deve, altresì, incentrarsi sul rapporto fra le esigenze emerse nell'area di competenza dell’Azienda e i servizi resi dalle strutture private convenzionate. 
 
-4.Il Sindaco, o l'Assessore da lui delegato, informa il Consiglio sugli indirizzi che in materia sanitaria la giunta municipale intende seguire. 
+4. Il Sindaco, o l'Assessore da lui delegato, informa il Consiglio sugli indirizzi che in materia sanitaria la giunta municipale intende seguire. 
 
 5. Il Consiglio, dopo il dibattito, delibera indicando le linee programmatiche della politica sanitaria e ne impegna la Giunta Comunale.
 
