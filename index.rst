@@ -16,12 +16,22 @@ Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.or
 Testo del Regolamento 
 =======================
 
+Parte 1 - NORME PER IL FUNZIONAMENTO DEL CONSIGLIO COMUNALE
+:::::::::::::::::::::::::::::::::::
+
 .. toctree::
 
-   _docs/titolo1.rst
-   _docs/titolo2.rst
-   _docs/titolo3.rst
-   _docs/titolo4.rst
-   _docs/titolo5.rst
-   _docs/titolo6.rst
-   _docs/titolo7.rst
+   _docs/capo1.rst
+   _docs/capo2.rst
+   _docs/capo3.rst
+   _docs/capo4.rst
+   _docs/capo5.rst
+   _docs/capo6.rst
+   _docs/capo7.rst
+
+Parte 2 - NORME PER GARANTIRE LA CORRETTEZZA, LA TRASPARENZA, LA FUNZIONALITA’ DELL’ AZIONE AMMINISTRATIVA, IL CONTROLLO SUGLI ENTI DIPENDENTI E L’INFORMAZIONE E LA PARTECIPAZIONE DEI CITTADINI
+:::::::::::::::::::::::::::::::::::
+
+   _docs/capo1parte2.rst
+ 
+   
