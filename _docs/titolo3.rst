@@ -1,8 +1,8 @@
 ==========================
-TITOLO 3 - ORGANI E UFFICI DELLA CIRCOSCRIZIONE
+TITOLO 3: ORGANI E UFFICI DELLA CIRCOSCRIZIONE - Capo 1: IL CONSIGLIO DI CIRCOSCRIZIONE
 ==========================
 
-**Capo 1 - IL CONSIGLIO DI CIRCOSCRIZIONE**
+
 
 Art. 6 Elettorato attivo e passivo
 -------------------------------
