@@ -5,17 +5,17 @@ Capo 3 - GRUPPI CONSILIARI
 ART. 6 COSTITUZIONE DEI GRUPPI CONSILIARI
 --------------------------------------
 
-1. La/ Il Consigliera/eo i/le Consiglieri/eeletti in una stessa lista hanno diritto di formare un Gruppo consiliare.
+1. La/ Il Consigliera/e o i/le Consiglieri/e eletti/e in una stessa lista hanno diritto di formare un Gruppo consiliare.
 
-2. La/ Il Consigliera/e che intende appartenere a un gruppo diverso da quello espresso dalla lista nella quale è stato eletto deve darne comunicazione al/alla Presidentedel Consiglio comunale, allegando la dichiarazione scritta di accettazione da parte del capogruppo del gruppo consiliare a cui ha chiesto di aderire.
+2. La/ Il Consigliera/e che intende appartenere a un gruppo diverso da quello espresso dalla lista nella quale è stato eletto deve darne comunicazione al/alla Presidente del Consiglio comunale, allegando la dichiarazione scritta di accettazione da parte del capogruppo del gruppo consiliare a cui ha chiesto di aderire.
 
 3. I gruppi consiliari sono composti da non meno di 3 Consiglieri. Tuttavia, all’inizio del mandato amministrativo e nella sua prima costituzione, ai/alle Consiglieri/edelle liste che abbiano ottenuto meno di 3 eletti sono riconosciuti i diritti e la rappresentanza spettanti ai gruppi consiliari.
 
-4. Una volta costituiti i gruppi e nominati i capigruppo, la/il Consigliera/eche non fa parte di alcun gruppo è incluso d’ufficio nel gruppo misto.
+4. Una volta costituiti i gruppi e nominati i capigruppo, la/il Consigliera/e che non fa parte di alcun gruppo è incluso d’ufficio nel gruppo misto.
 
 5.  Ogni  singolo  gruppo  deve  comunicare al/alla Presidente il  nome  del  proprio  capogruppo  entro quindici giorni dalla data di insediamento del Consiglio comunale.
 
-6. Nel caso di omessa comunicazione, è considerato capogruppo la/il Consigliera/epiù anziano per età eletto nella lista alla  quale il gruppo si riferisce.  Lostesso criterio si adotta nel caso di omessa comunicazione per il gruppo misto.
+6. Nel caso di omessa comunicazione, è considerato capogruppo la/il Consigliera/e più anziano per età eletto nella lista alla  quale il gruppo si riferisce.  Lostesso criterio si adotta nel caso di omessa comunicazione per il gruppo misto.
 
 |
 
