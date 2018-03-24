@@ -17,13 +17,14 @@ Testo del Regolamento
 
 .. toctree::
 
-   _docs/capo1.rst
-   _docs/capo2.rst
-   _docs/capo3.rst
-   _docs/capo4.rst
-   _docs/capo5.rst
-   _docs/capo6.rst
-   _docs/capo7.rst
+   _docs/titolo1.rst
+   _docs/titolo2.rst
+   _docs/titolo3capo1.rst
+   _docs/titolo3capo2.rst
+   _docs/titolo3capo3.rst
+   _docs/titolo4.rst
+   _docs/titolo5.rst
+   _docs/titolo6.rst
 
 
  
