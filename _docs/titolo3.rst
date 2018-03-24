@@ -4,7 +4,7 @@ TITOLO 3 - ORGANI E UFFICI DELLA CIRCOSCRIZIONE
 
 **Capo 1 - IL CONSIGLIO DI CIRCOSCRIZIONE**
 
-Art. 6 Elettoratoattivo e passivo
+Art. 6 Elettorato attivo e passivo
 -------------------------------
 
 1. Sono  elettori  della  Circoscrizione  gli  iscritti  nelle  liste  elettorali  delle  sezioni  comprese  nel territorio della Circoscrizione.
