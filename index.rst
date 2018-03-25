@@ -29,6 +29,7 @@ Testo del Regolamento
    _docs/titolo4.rst
    _docs/titolo5.rst
    _docs/titolo6.rst
+   _docs/consiglicircoscrizionali.rst
 
 
  
