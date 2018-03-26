@@ -282,6 +282,7 @@ Art. 21 Votazione finale
 |
 
 Art.22 Sistemi di votazione
+----------------------------
 
 1. Le votazioni possono effettuarsi a scrutinio palese o a scrutinio segreto.
 
